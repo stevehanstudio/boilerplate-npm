@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"author": "Steve Han",
+	"description": "Project for FreeCodeCamp Back End Development and APIs course",
 	"scripts": {
 		"start": "node server.js"
 	},
